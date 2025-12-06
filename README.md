@@ -1,4 +1,4 @@
-# -LAMIYA99
+
 <h1 align="center">Hi 👋, I'm Lamiya Alizada</h1>
 <h3 align="center">Frontend Developer from Azerbaijan</h3>
 
